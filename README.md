@@ -12,3 +12,19 @@ This is my first GitHub repository
     <p>This is my first HTML file.</p>
 </body>
 </html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First GitHub Page</title>
+</head>
+<body style="background-color: lightblue;">
+
+    <h1 style="color: darkblue;">Hello, GitHub!</h1>
+
+    <p style="color: red;">This is my first HTML file.</p>
+
+</body>
+</html>
